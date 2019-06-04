@@ -1,3 +1,5 @@
+package Exercicios1e2;
+
 public class Animal {
     private String nome;
     

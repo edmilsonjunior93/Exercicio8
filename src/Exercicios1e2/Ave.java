@@ -1,3 +1,5 @@
+package Exercicios1e2;
+
 public class Ave extends Animal {
     
     public Ave(String n,boolean v) {

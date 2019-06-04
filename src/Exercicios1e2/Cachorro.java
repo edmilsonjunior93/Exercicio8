@@ -1,3 +1,5 @@
+package Exercicios1e2;
+
 public class Cachorro extends Mamifero{
     
     public Cachorro(String n, int p,boolean l) {

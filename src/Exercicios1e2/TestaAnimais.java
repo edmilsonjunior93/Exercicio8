@@ -1,3 +1,5 @@
+package Exercicios1e2;
+
 public class TestaAnimais {
     
     public static void main(String[] args){

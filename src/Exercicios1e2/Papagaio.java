@@ -1,3 +1,5 @@
+package Exercicios1e2;
+
 public class Papagaio extends Ave{
     
     public Papagaio(String n, boolean v,String f) {

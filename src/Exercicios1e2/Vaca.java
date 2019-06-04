@@ -1,3 +1,5 @@
+package Exercicios1e2;
+
 public class Vaca extends Mamifero{
     
     public Vaca(String n, int p,boolean t) {
